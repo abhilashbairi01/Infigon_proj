@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "//abhilashbairi01.github.io/Infigon_proj/static/css/main.51203d5a.chunk.css",
+    "main.css": "//abhilashbairi01.github.io/Infigon_proj/static/css/main.dfbbb88d.chunk.css",
     "main.js": "//abhilashbairi01.github.io/Infigon_proj/static/js/main.03e9f7f6.chunk.js",
     "main.js.map": "//abhilashbairi01.github.io/Infigon_proj/static/js/main.03e9f7f6.chunk.js.map",
     "runtime-main.js": "//abhilashbairi01.github.io/Infigon_proj/static/js/runtime-main.3c09ee50.js",
@@ -8,7 +8,7 @@
     "static/js/2.24c76281.chunk.js": "//abhilashbairi01.github.io/Infigon_proj/static/js/2.24c76281.chunk.js",
     "static/js/2.24c76281.chunk.js.map": "//abhilashbairi01.github.io/Infigon_proj/static/js/2.24c76281.chunk.js.map",
     "index.html": "//abhilashbairi01.github.io/Infigon_proj/index.html",
-    "static/css/main.51203d5a.chunk.css.map": "//abhilashbairi01.github.io/Infigon_proj/static/css/main.51203d5a.chunk.css.map",
+    "static/css/main.dfbbb88d.chunk.css.map": "//abhilashbairi01.github.io/Infigon_proj/static/css/main.dfbbb88d.chunk.css.map",
     "static/js/2.24c76281.chunk.js.LICENSE.txt": "//abhilashbairi01.github.io/Infigon_proj/static/js/2.24c76281.chunk.js.LICENSE.txt",
     "static/media/contact_apple.ebf20aa4.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/contact_apple.ebf20aa4.svg",
     "static/media/contact_google.76d3ecc3.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/contact_google.76d3ecc3.svg",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c09ee50.js",
     "static/js/2.24c76281.chunk.js",
-    "static/css/main.51203d5a.chunk.css",
+    "static/css/main.dfbbb88d.chunk.css",
     "static/js/main.03e9f7f6.chunk.js"
   ]
 }
