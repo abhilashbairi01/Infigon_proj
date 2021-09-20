@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "//abhilashbairi01.github.io/Infigon_proj/static/css/main.51203d5a.chunk.css",
+    "main.js": "//abhilashbairi01.github.io/Infigon_proj/static/js/main.03e9f7f6.chunk.js",
+    "main.js.map": "//abhilashbairi01.github.io/Infigon_proj/static/js/main.03e9f7f6.chunk.js.map",
+    "runtime-main.js": "//abhilashbairi01.github.io/Infigon_proj/static/js/runtime-main.3c09ee50.js",
+    "runtime-main.js.map": "//abhilashbairi01.github.io/Infigon_proj/static/js/runtime-main.3c09ee50.js.map",
+    "static/js/2.24c76281.chunk.js": "//abhilashbairi01.github.io/Infigon_proj/static/js/2.24c76281.chunk.js",
+    "static/js/2.24c76281.chunk.js.map": "//abhilashbairi01.github.io/Infigon_proj/static/js/2.24c76281.chunk.js.map",
+    "index.html": "//abhilashbairi01.github.io/Infigon_proj/index.html",
+    "static/css/main.51203d5a.chunk.css.map": "//abhilashbairi01.github.io/Infigon_proj/static/css/main.51203d5a.chunk.css.map",
+    "static/js/2.24c76281.chunk.js.LICENSE.txt": "//abhilashbairi01.github.io/Infigon_proj/static/js/2.24c76281.chunk.js.LICENSE.txt",
+    "static/media/contact_apple.ebf20aa4.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/contact_apple.ebf20aa4.svg",
+    "static/media/contact_google.76d3ecc3.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/contact_google.76d3ecc3.svg",
+    "static/media/counsellin_mobile.029b604d.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/counsellin_mobile.029b604d.svg",
+    "static/media/all.css": "//abhilashbairi01.github.io/Infigon_proj/static/media/fa-solid-900.f89ad185.woff",
+    "static/media/facebook.9b4ef818.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/facebook.9b4ef818.svg",
+    "static/media/hero.e2896334.png": "//abhilashbairi01.github.io/Infigon_proj/static/media/hero.e2896334.png",
+    "static/media/linkedin.a8d02c2f.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/linkedin.a8d02c2f.svg",
+    "static/media/mentor_1.7e8a2e53.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mentor_1.7e8a2e53.svg",
+    "static/media/mentor_2.32c4d28e.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mentor_2.32c4d28e.svg",
+    "static/media/mentor_3.bce3ca8b.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mentor_3.bce3ca8b.svg",
+    "static/media/mentor_4.801e65ef.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mentor_4.801e65ef.svg",
+    "static/media/mindler-news1.2fdaffa8.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mindler-news1.2fdaffa8.svg",
+    "static/media/mindler-news2.392961b3.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mindler-news2.392961b3.svg",
+    "static/media/mindler-news3.37634aed.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mindler-news3.37634aed.svg",
+    "static/media/mindler-news4.a72631c5.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mindler-news4.a72631c5.svg",
+    "static/media/mindler-news5.cd08bf1e.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mindler-news5.cd08bf1e.svg",
+    "static/media/mindler-news6.40016ba6.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/mindler-news6.40016ba6.svg",
+    "static/media/offer_1.c2350c7a.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/offer_1.c2350c7a.svg",
+    "static/media/package_1.fef89810.png": "//abhilashbairi01.github.io/Infigon_proj/static/media/package_1.fef89810.png",
+    "static/media/package_2.0f9aff42.png": "//abhilashbairi01.github.io/Infigon_proj/static/media/package_2.0f9aff42.png",
+    "static/media/package_3.a13d9556.png": "//abhilashbairi01.github.io/Infigon_proj/static/media/package_3.a13d9556.png",
+    "static/media/package_4.8ddfda02.png": "//abhilashbairi01.github.io/Infigon_proj/static/media/package_4.8ddfda02.png",
+    "static/media/twitter.b2f32d41.svg": "//abhilashbairi01.github.io/Infigon_proj/static/media/twitter.b2f32d41.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c09ee50.js",
+    "static/js/2.24c76281.chunk.js",
+    "static/css/main.51203d5a.chunk.css",
+    "static/js/main.03e9f7f6.chunk.js"
+  ]
+}
